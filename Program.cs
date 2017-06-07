@@ -79,28 +79,18 @@ public class Program
 			Console.WriteLine("You have melted your friend and you left behind a puddle.");
 		} else {
 		
-		}
-	// this doesnt work yet
-	// trying to get back to how it was before it all deleted :(
-	/*if (selection == "A" ||selection == "B"||selection == "C"){
-			Console.WriteLine("Invalid Character Try Again foo.");
-			selection = Console.ReadLine();
-		}
-		else 
-		{
-			Console.WriteLine("You chose {0} as your choice ",selection);
-		}*/
+        }   
 	}
 
 	public static void alienDraw1()
 	{
 		string alien1 = @"
-   _..._
- .'_(.)_'.
-/ (.) (.) \
-| ,_____. |
-\    '-'  /
- '.PATRICK_.' 
+   _...__.
+ .'_ (.) _'.
+/  (.) (.)  \
+|  ,_____.  |      __
+\     '-'   /_-_-_/ /
+ '_+PATRIK+.'-_-_-\_\
  __//   \\__
 (___)   (___)";
 		Console.WriteLine(alien1);
@@ -109,14 +99,14 @@ public class Program
 	public static void alienDraw2()
 	{
 		string alien2 = @"
-   _..._
- .'_(.)_'.
-/ (.) (.) \
-| ,_____. |
-\    '-'  /
- '.GAGA_.' 
- __//   \\__
-(___)   (___)";
+    /\.-.../`\     /#\
+   /_\ /_   \ \--.  \ \
+ / /.\ /.\   \ \--. / /
+/  \_/ \_/    \ \ \/ /
+:(_)_______(_): | \ X
+ \  \/ \/  ; ./ |  \--\
+  ##__GAGA____##|...\--\     
+  (,,,)(,,,)   (,,,)(,,,)";
 		Console.WriteLine(alien2);
 	}
 
@@ -124,15 +114,16 @@ public class Program
 	{
 		string alien2 = @"	
 		
-      __
-  __ {_/ 
-  \_}\\ ___  
- /  x   x  \
-/, _..(   ).\
-| `’’’—__|  |
-\   ANNA —  /
- '.        .'
-   '-.....-'
+      __.           __.
+  __ {_/        __ {_/ 
+  \_}\\ ___     \_}\\ ___.
+  / \    / \    /  \   / |
+ /  o____o  \   /  O____O \
+/ #       #  \ / #       # \
+| -_-_-_-_-_ | -_-_-_-_-_ |=^|^\
+\    -===-==ANNA==-====- .'=.|./
+ '.         .''.           .'
+   '-.....-'   '-........-'
 ";
 		Console.WriteLine(alien2);
 	}
