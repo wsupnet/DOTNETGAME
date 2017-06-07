@@ -1,0 +1,8 @@
+/Users/Carlos/Desktop/SACA-Intermediate/Game/bin/Debug/netcoreapp1.1/Game.deps.json
+/Users/Carlos/Desktop/SACA-Intermediate/Game/bin/Debug/netcoreapp1.1/Game.runtimeconfig.json
+/Users/Carlos/Desktop/SACA-Intermediate/Game/bin/Debug/netcoreapp1.1/Game.runtimeconfig.dev.json
+/Users/Carlos/Desktop/SACA-Intermediate/Game/bin/Debug/netcoreapp1.1/Game.dll
+/Users/Carlos/Desktop/SACA-Intermediate/Game/bin/Debug/netcoreapp1.1/Game.pdb
+/Users/Carlos/Desktop/SACA-Intermediate/Game/obj/Debug/netcoreapp1.1/Game.AssemblyInfo.cs
+/Users/Carlos/Desktop/SACA-Intermediate/Game/obj/Debug/netcoreapp1.1/Game.dll
+/Users/Carlos/Desktop/SACA-Intermediate/Game/obj/Debug/netcoreapp1.1/Game.pdb
