@@ -6,3 +6,11 @@
 /Users/Carlos/Desktop/SACA-Intermediate/Game/obj/Debug/netcoreapp1.1/Game.AssemblyInfo.cs
 /Users/Carlos/Desktop/SACA-Intermediate/Game/obj/Debug/netcoreapp1.1/Game.dll
 /Users/Carlos/Desktop/SACA-Intermediate/Game/obj/Debug/netcoreapp1.1/Game.pdb
+/Users/wesleys/Desktop/SACA-intermediate/Game/DOTNETGAME/bin/Debug/netcoreapp1.1/Game.deps.json
+/Users/wesleys/Desktop/SACA-intermediate/Game/DOTNETGAME/bin/Debug/netcoreapp1.1/Game.runtimeconfig.json
+/Users/wesleys/Desktop/SACA-intermediate/Game/DOTNETGAME/bin/Debug/netcoreapp1.1/Game.runtimeconfig.dev.json
+/Users/wesleys/Desktop/SACA-intermediate/Game/DOTNETGAME/bin/Debug/netcoreapp1.1/Game.dll
+/Users/wesleys/Desktop/SACA-intermediate/Game/DOTNETGAME/bin/Debug/netcoreapp1.1/Game.pdb
+/Users/wesleys/Desktop/SACA-intermediate/Game/DOTNETGAME/obj/Debug/netcoreapp1.1/Game.AssemblyInfo.cs
+/Users/wesleys/Desktop/SACA-intermediate/Game/DOTNETGAME/obj/Debug/netcoreapp1.1/Game.dll
+/Users/wesleys/Desktop/SACA-intermediate/Game/DOTNETGAME/obj/Debug/netcoreapp1.1/Game.pdb
